@@ -6,4 +6,4 @@ This is a 5-stage dynamic pipeline CPU which supports 45 ```Mips32``` assembly i
 
 ### holistic schema
 
-![](.\overall.jpg)
+![holistic_schema](overall.jpg)
